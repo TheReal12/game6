@@ -1,2 +1,2 @@
-# 125
-A game about coolness.
+# Game #6
+A game.
